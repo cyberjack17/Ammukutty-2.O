@@ -17,7 +17,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️ᴄʏʙᴇʀ㊌ᴊᴀᴄᴋ's✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️ᴄʏʙᴇʀ㊌ᴊᴀᴄᴋ✨️━━━━━⛦
 
 
 Hello👋 I am a ᴄʏʙᴇʀ㊌ᴊᴀᴄᴋ's bot.
@@ -135,7 +135,7 @@ Hello👋 I am a ᴄʏʙᴇʀ㊌ᴊᴀᴄᴋ's bot.
 ⚠️ex  attp Ammukutty
 ■□■□■□■□■□■□■□■□■□■□
 ═════💢Ammukutty💢═════
-▣▣▣▣▣▣▣ᴄʏʙᴇʀ㊌ᴊᴀᴄᴋ's▣▣▣▣▣▣▣
+▣▣▣▣▣▣▣ᴄʏʙᴇʀ㊌ᴊᴀᴄᴋ▣▣▣▣▣▣▣
 
 `}) 
 
